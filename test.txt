@@ -3,3 +3,5 @@ this is first line;
 this is third line;
 
 tiis is five line;
+
+Creating a new branch is quick & simple.
